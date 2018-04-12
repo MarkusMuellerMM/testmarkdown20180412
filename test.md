@@ -120,3 +120,13 @@ custom_mark10
   }
 custom_mark10
 </details>
+
+
+{% dot attack_plan.svg
+    digraph G {
+        rankdir=LR
+        Earth [peripheries=2]
+        Mars
+        Earth -> Mars
+    }
+%}
