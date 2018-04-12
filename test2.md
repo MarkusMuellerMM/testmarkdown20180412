@@ -1,5 +1,8 @@
 
-![Alt text](https://g.gravizo.com/source/custom_mark11?https://github.com/MarkusMuellerMM/testmarkdown20180412/edit/master/test2.md)
+
+%3A%2F%2F
+
+![Alt text](https://g.gravizo.com/source/custom_mark11?https%3A%2F%2Fgithub.com%2FMarkusMuellerMM%2Ftestmarkdown20180412%2Fedit%2Fmaster%2Ftest2.md)
 <details> 
 <summary></summary>
 custom_mark11
