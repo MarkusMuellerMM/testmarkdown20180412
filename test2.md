@@ -20,3 +20,17 @@ custom_mark11
   }
 custom_mark11
 </details>
+
+
+{% dot output.png
+	digraph G {
+		rankdir=LR
+		S0 -> A [label="-"]
+		A -> B [label="-"]
+		A -> C [label=">"]
+
+		A [peripheries=2]
+		B [peripheries=2]
+		C [peripheries=2]
+	}
+%}
